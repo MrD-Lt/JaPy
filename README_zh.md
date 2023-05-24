@@ -15,7 +15,7 @@ JaPy是一个简单的Java-Python功能库。
 
 ### 添加jar文件
 
-1. 下载`JaPy-1.0-SNAPSHOT.jar`文件。
+1. 下载[JaPy-1.0-SNAPSHOT.jar](target/JaPy-1.0-SNAPSHOT.jar)文件。
 2. 将下载的jar文件复制到项目的`libs`目录下（如果没有这个目录，就创建一个）。
 3. 在IntelliJ IDEA中，你可以通过以下步骤来添加这个jar到项目的类路径（classpath）中：
     - 右击项目 -> Open Module Settings
