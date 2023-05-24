@@ -16,7 +16,7 @@ Helping beginners and users who often use print to debug code easily achieve the
 
 ### Add jar file
 
-1. Download the `JaPy-1.0-SNAPSHOT.jar` file.
+1. Download the [JaPy-1.0-SNAPSHOT.jar](target/JaPy-1.0-SNAPSHOT.jar) file.
 2. Copy the downloaded jar file to the `libs` directory of the project (if there is no such directory, create one).
 3. In IntelliJ IDEA, you can add this jar to the classpath of the project by the following steps:
    - Right-click on the project -> Open Module Settings
