@@ -34,7 +34,7 @@ import static JaPy.Print.*;
 public class Main {
     public static void main(String[] args){
         printHello();
-        String greetings = "Hello, world!"
+        String greetings = "Hello, world!";
         print(greetings);
         print(new int[]{1, 2, 3});
         print(new char[]{'a', 'b', 'c'});
