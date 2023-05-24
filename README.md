@@ -1,4 +1,4 @@
-# JaPy Library (English)
+# JaPy Library
 [中文版本](README_zh.md)
 
 JaPy is a simple library that facilitates Java-Python features.
